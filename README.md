@@ -1,7 +1,7 @@
 # ETL Data Engineering Project
-## This project demonstrates a comprehensive Extract, Transform, Load (ETL) pipeline using modern data engineering tools and services. The goal is to illustrate the flow of data from producers to consumers, its storage in AWS S3, and subsequent SQL querying using AWS Athena.
+### This project demonstrates a comprehensive Extract, Transform, Load (ETL) pipeline using modern data engineering tools and services. The goal is to illustrate the flow of data from producers to consumers, its storage in AWS S3, and subsequent SQL querying using AWS Athena.
 
-![image](https://github.com/user-attachments/assets/6ac29957-3832-460d-88e0-d5b1879a2735)
+![image](https://github.com/user-attachments/assets/bb88305a-a2e2-4c19-a49b-6bdefd150549)
 
 https://github.com/user-attachments/assets/0ee8811d-9d44-472c-b7b7-11e04c67f509
 

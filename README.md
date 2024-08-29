@@ -7,11 +7,11 @@ https://github.com/user-attachments/assets/0ee8811d-9d44-472c-b7b7-11e04c67f509
 
 ## Tools used:
 ### 1. Kafka & Zookeeper
-### 2. AWS EC2
-### 3. AWS Glue, Crawler
-### 4. AWS Athena
+2. AWS EC2
+3. AWS Glue, Crawler
+4. AWS Athena
 
-## Project Flow
+## Project Flow:
 ## 1. Data Production and Consumption:
 ### Data is produced and sent to Kafka topics by producers.
 ### Consumers receive the data from Kafka topics.

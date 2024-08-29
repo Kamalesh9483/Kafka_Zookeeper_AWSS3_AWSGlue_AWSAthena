@@ -6,26 +6,26 @@
 https://github.com/user-attachments/assets/0ee8811d-9d44-472c-b7b7-11e04c67f509
 
 ## Tools used:
-### 1. Kafka & Zookeeper
+1. Kafka & Zookeeper
 2. AWS EC2
 3. AWS Glue, Crawler
 4. AWS Athena
 
 ## Project Flow:
 ## 1. Data Production and Consumption:
-### Data is produced and sent to Kafka topics by producers.
-### Consumers receive the data from Kafka topics.
+Data is produced and sent to Kafka topics by producers.
+Consumers receive the data from Kafka topics.
 
 ## 2. Data Storage:
-### Data is stored in Amazon S3 buckets for persistent storage ### and further processing.
+Data is stored in Amazon S3 buckets for persistent storage ### and further processing.
 
 ## 3. Data Transformation and Cataloging:
-### AWS Glue performs data transformation tasks, cleaning, and 
-### structuring data as needed.
-### AWS Glue Crawler is used to discover and catalog metadata from the data ### stored in S3.
+AWS Glue performs data transformation tasks, cleaning, and 
+structuring data as needed.
+AWS Glue Crawler is used to discover and catalog metadata from the data ### stored in S3.
 
 ## 4. Data Querying:
-### AWS Athena is used to perform SQL queries on the data stored in S3, ### enabling analysis and reporting.
+AWS Athena is used to perform SQL queries on the data stored in S3, ### enabling analysis and reporting.
 
 
 
